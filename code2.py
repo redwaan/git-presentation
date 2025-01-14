@@ -1,1 +1,1 @@
-print("Git Hook")
+print("Git Hook check")
